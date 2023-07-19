@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*.navbar{
+    padding: 20px 120px;
+    display: flex;
+    justify-content: space-between;
+}
+div img{
+    width: 450%;
+}
+div h1{
+    font-size: 2em;
+    margin-right: 400px;
+    margin-left: 50px;
+}
+div .youtube img{
+    width: 10%;
+}
+div .insta img{
+    width: 10%;
+}
+div{
+    display: inline-block;
+}
+nav > ul{
+    display: flex;
+}
+nav ul img{
+    display: flex;
+} 
+ul div img{
+    width: 35%;
+    margin-right: 0px;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav li a{
+    text-decoration: none;
+}*/
+/*banner part*/
+section img{
+    width: 75%;
+}
+section{
+    display: inline-flex;
+}
+.content{
+    position: relative;
+    position: absolute;
+    top: 35%;
+    right: 60%;
+
+}
+.content h2{
+    width: 350px;
+    height: 30px;
+    font-weight: 600;
+    font-family: Work Sans;
+}
+.content h1{
+    width: 358px;
+    height: 55px;
+    font-size: 50px;
+    font-weight: 800;
+    font-family: Work Sans;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 10px;
+}
+.content h5 {
+    width: 200px;
+height: 20px;
+color: #534C64;
+font-family: Work Sans;
+font-size: 10px;
+font-weight: 500;
+}
+.btn-primary{
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 40px ;
+    margin-right: 10px;
+    font-weight: 600;
+    font-family: Work Sans;
+    font-size: 10px;
+    color: #FFF;
+}
+#sign{
+    background-color: #FF42A5;
+}
+#rogue{
+    background-color: #4EC5F7;
+}
